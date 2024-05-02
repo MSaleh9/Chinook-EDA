@@ -1,2 +1,2 @@
-# Pandp-EDA
-Sql queries on the Pandp Database to extract information for insights ( EDA ) 
+# Chinook-EDA
+Sql queries on the Chinook Database to extract information for insights ( EDA ) 
